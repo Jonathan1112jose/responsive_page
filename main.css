@@ -21,7 +21,6 @@ background: linear-gradient(196deg, rgba(213,186,198,1) 0%, rgba(14,117,240,1) 1
 	text-shadow: 5px 5px 3px  #000;
 	border-radius: 10px;
 	box-shadow: -10px 10px 20px 4px #625;
-	grid-column: 1/5;
 }
 .food__chicken-img, 
 .food__beef-img,
